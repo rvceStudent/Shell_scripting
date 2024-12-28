@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo - "Please provide filename you want to create: \c"
